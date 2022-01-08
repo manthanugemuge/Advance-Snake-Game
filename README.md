@@ -20,5 +20,5 @@ An Advance Snake Game using Basic Html, CSS & Javascript
 
 
 ```
-- Run Directly - 
+- Run Directly - https://manthanugemuge.github.io/Advance-Snake-Game/
 - Access All Games - https://github.com/ManthanUgemuge/WebGames-Projects
