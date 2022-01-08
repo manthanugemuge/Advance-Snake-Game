@@ -17,7 +17,7 @@ An Advance Snake Game using Basic Html, CSS & Javascript
 - Download or clone the repository Website : 
 
 ```
-
+https://github.com/ManthanUgemuge/Advance-Snake-Game.git
 
 ```
 - Run Directly - https://manthanugemuge.github.io/Advance-Snake-Game/
