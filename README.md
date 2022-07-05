@@ -22,3 +22,10 @@ https://github.com/ManthanUgemuge/Advance-Snake-Game.git
 ```
 - Run Directly - [Play Advance Snake Game](https://manthanugemuge.github.io/Advance-Snake-Game/)
 - Access All Games - [WebGames-Projects🎮](https://github.com/ManthanUgemuge/WebGames-Projects)
+
+## Contributing
+
+Pull requests are welcome, feel free to ```fork``` this repo.
+
+## License
+This project is open-sourced under the [MIT license]().
