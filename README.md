@@ -1,6 +1,6 @@
 # Advance-Snake-Game
 
-An Advance Snake Game using Basic Html, CSS & Javascript
+An Advance Snake Game using Basic Html, CSS & JavaScript. 
 
 ## About The Project
 
