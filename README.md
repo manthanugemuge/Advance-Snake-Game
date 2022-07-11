@@ -13,7 +13,6 @@ An Advance Snake Game using Basic Html, CSS & JavaScript.
 
 ## How to use Project
 
-
 - Download or clone the repository Website : 
 
 ```
