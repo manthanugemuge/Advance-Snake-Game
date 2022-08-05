@@ -1,4 +1,4 @@
-# Advance-Snake-Game
+# Advance Snake Game
 
 An Advance Snake Game using Basic Html, CSS & JavaScript. 
 
