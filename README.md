@@ -13,7 +13,7 @@ An Advance Snake Game using Basic Html, CSS & JavaScript.
 
 ## How to use Project
 
-- (Download)[] or clone the repository Website : 
+- (Download)[https://github.com/ManthanUgemuge/Advance-Snake-Game/archive/refs/heads/main.zip] or clone the repository Website : 
 
 ```
 https://github.com/ManthanUgemuge/Advance-Snake-Game.git
