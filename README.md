@@ -4,6 +4,7 @@ An Advance Snake Game using Basic Html, CSS & JavaScript.
 
 ## About The Project
 
+Advance Snake Game with music and increasing mechanics.
 
 ## Tech Stacks Used
 
