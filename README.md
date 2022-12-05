@@ -24,8 +24,8 @@ https://github.com/ManthanUgemuge/Advance-Snake-Game.git
 
 - Run Directly -
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/movie-watchlist/archive/refs/heads/main.zip) 
-[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/movie-watchlist/)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")]() 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")]()
 
 
 
