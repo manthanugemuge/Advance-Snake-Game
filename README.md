@@ -1,6 +1,6 @@
 # Advance Snake Game
 
-An Advance Snake Game using Basic Html, CSS & JavaScript. 
+An Advance Snake Game using HTML, CSS & JavaScript. 
 
 ## About The Project
 
@@ -17,7 +17,7 @@ Advance Snake Game with music and increasing mechanics.
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/Advance-Snake-Game.git
+https://github.com/manthanugemuge/Advance-Snake-Game.git
 
 ```
 
